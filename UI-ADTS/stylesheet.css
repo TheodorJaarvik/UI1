@@ -1,0 +1,19 @@
+article{
+    width: 500px;
+    height: 300px;
+    border: 2px solid black;
+    text-align: center;
+}
+article>#div_UI{
+    padding-bottom: 30px;
+    padding-top: 20%;
+}
+#div_Button{
+    display: inline;
+    bottom: 10px;
+    border: 2px dotted black;
+    padding: 5px 5px 5px 5px;
+}
+input{
+    float: left;
+}
